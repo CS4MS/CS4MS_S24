@@ -30,10 +30,10 @@ More information and additional material can be found here [Summary of Tutorials
 - Week 5
   - [Lecture 5: Transformations and Dataloader](https://colab.research.google.com/github/CS4MS/CS4MS_S24/blob/main/lectures/Lecture_5.ipynb)
   - [Exercise 5: Confusing pretrained Network with Transformations](https://colab.research.google.com/github/CS4MS/CS4MS_S24/blob/main/exercises/Exercise_5.ipynb) 
-<!--- 
   - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_S24/blob/main/solutions/Exercise_5_Solution.ipynb)
 - Week 6
   - [Exercise 6: Metrics and Object Oriented Programming](https://colab.research.google.com/github/CS4MS/CS4MS_S24/blob/main/exercises/Exercise_6.ipynb)
+<!--- 
   - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_S24/blob/main/solutions/Exercise_6_Solution.ipynb)
 - Week 7
   - [Exercise 7a: Network Setup and First Training - part 1](https://colab.research.google.com/github/CS4MS/CS4MS_S24/blob/main/exercises/Exercise_7a.ipynb)
